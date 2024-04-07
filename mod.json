@@ -18,5 +18,6 @@
 				"slider": true
 			}
 		}
-	}
+	},
+	"repository": "https://github.com/relativemodder/scroll-faster-with-ctrl"
 }

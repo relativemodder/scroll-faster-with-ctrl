@@ -1,3 +1,3 @@
-# ScrollFasterWithCtrl
+# Scroll faster with Ctrl
 
-This is where she makes a mod.
+Just press / hold Ctrl key to scroll faster (you can configure it in mod's settings).
